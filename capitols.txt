@@ -1,0 +1,6 @@
+Capitol  (326,553) 
+Beijing  (2003,558) 
+Germany  (1045,391) 
+France  (983,469) 
+Moscow  (1296,325) 
+New Dehli  (1634,701) 

@@ -1,0 +1,5 @@
+map_name: big_world_2030_1
+games:
+- game_name: 'Big World: 2023'
+  file_name: Big_World_2030.xml
+version: 0
